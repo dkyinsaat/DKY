@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-Symfony Standards Editions 3222 2fafasf
-=======
-Symfony Standards Editions 3222sasfasfasfs
->>>>>>> f430693120801b1aa9f450cc159158b92711a446
-========================
+Symfony Standards Editions 3
+---------------------------------------
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony
 application that you can use as the skeleton for your new applications.
