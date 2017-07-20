@@ -1,4 +1,4 @@
-Symfony Standards Editions 3333
+Symfony Standards Editions 3
 ========================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony
