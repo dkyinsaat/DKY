@@ -1,4 +1,4 @@
-Symfony Standards Editions 32
+Symfony Standards Editions 3222
 ========================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony
